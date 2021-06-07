@@ -43,7 +43,7 @@
 
 ---
 
- <img align="left" alt="Yasen-Alchev's Language Card" src="https://benjamins-readme-stats-bt29bovd9.vercel.app/api/top-langs/?username=scitronboy&layout=compact&theme=gruvbox&num_langs=10"/>
+ <img align="left" alt="Yasen-Alchev's Language Card" src="https://benjamins-readme-stats-bt29bovd9.vercel.app/api/top-langs/?username=Yasen-Alchev&layout=compact&theme=gruvbox&num_langs=10"/>
 
 [instagram]: https://www.instagram.com/y.alch/
 [linkedin]: https://www.linkedin.com/in/yasen-alchev-720281214/
