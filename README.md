@@ -34,14 +34,13 @@
 <img align="left" alt="Yasen-Alchev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&show_icons=true&hide_border=true&theme=tokyonight"/>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
  <img align="left" alt="Yasen-Alchev's Language Card" src="https://benjamins-readme-stats-bt29bovd9.vercel.app/api/top-langs/?username=scitronboy&layout=compact&theme=gruvbox&num_langs=10"/>
 
 [instagram]: https://www.instagram.com/y.alch/
