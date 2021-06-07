@@ -31,7 +31,7 @@
 
 ---
 
-<img align="left" alt="Yasen-Alchev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&show_icons=true&hide_border=true"/>
+<img align="left" alt="Yasen-Alchev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&show_icons=true&hide_border=true?theme=tokyonight"/>
 
 
 [instagram]: https://www.instagram.com/y.alch/
