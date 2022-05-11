@@ -33,10 +33,12 @@
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" />
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/console.png" />
 <br>
+
+### Stats
 
 ---
 
