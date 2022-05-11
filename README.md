@@ -37,6 +37,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/console.png" />
 <br>
+
+### Cool Projects
+
+https://github.com/Yasen-Alchev/MultiplayerFPS_DiplomnaRabota
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen-Alchev&repo=MultiplayerFPS_DiplomnaRabota&theme=tokyonight)](https://github.com/Yasen-Alchev/MultiplayerFPS_DiplomnaRabota)
+
 <br>
 
 ### Stats
