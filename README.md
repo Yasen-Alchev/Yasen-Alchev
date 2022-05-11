@@ -22,7 +22,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -37,10 +37,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/console.png" />
 <br>
+<br>
 
 ### Stats
-
----
 
 <img align="left" alt="Yasen-Alchev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&show_icons=true&hide_border=true&theme=tokyonight"/>
 <br>
@@ -55,6 +54,9 @@
 ---
 
  <img align="left" alt="Yasen-Alchev's Language Card" src="https://benjamins-readme-stats-bt29bovd9.vercel.app/api/top-langs/?username=Yasen-Alchev&layout=compact&theme=gruvbox&num_langs=10"/>
+
+![Yasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasen-Alchev&layout=compact&theme=chartreuse-dark)
 
 [instagram]: https://www.instagram.com/y.alch/
 [linkedin]: https://www.linkedin.com/in/yasen-alchev-720281214/
