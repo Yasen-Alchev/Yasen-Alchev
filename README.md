@@ -41,6 +41,8 @@
 
 ### Stats
 
+<!--
+
 <img align="left" alt="Yasen-Alchev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&show_icons=true&hide_border=true&theme=tokyonight"/>
 <br>
 <br>
@@ -55,8 +57,10 @@
 
  <img align="left" alt="Yasen-Alchev's Language Card" src="https://benjamins-readme-stats-bt29bovd9.vercel.app/api/top-langs/?username=Yasen-Alchev&layout=compact&theme=gruvbox&num_langs=10"/>
 
-![Yasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&count_private=true&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasen-Alchev&layout=compact&theme=chartreuse-dark)
+-->
+
+![Yasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasen-Alchev&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasen-Alchev&layout=compact&theme=tokyonight)
 
 [instagram]: https://www.instagram.com/y.alch/
 [linkedin]: https://www.linkedin.com/in/yasen-alchev-720281214/
