@@ -1,12 +1,21 @@
 ### Hi there, I'm Yasen Alchev 👋
 
-## I'm a Student in Tues.
-
-- 🔭 I am currently working on developing games with Java
-- 🌱 I’m currently learning Java
+- 🔭 I am currently working on my [diploma work](https://github.com/Yasen-Alchev/MultiplayerFPS_DiplomnaRabota)
+- 🌱 I’m currently learning Unreal Engine
 - 💬 Feel free to ask me anything you're interested in
 - 📫 How to reach me: [Yasen Alchev][linkedin]
-- ⚡ Fun fact: I love coding and extreme sports
+- ⚡ Fun fact: I love gymnastics and extreme sports like parachuting
+
+### I'm interested in
+- Mobile Development 📱
+- Game Development 🎮
+- Web Development 🌐
+
+### Skills
+- C, C++ 💻
+- Java   ☕
+- Python, Flask 🐍
+- Arduino ⚙️
 
 ### Connect with me:
 
