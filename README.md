@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/3.0.1/dust-core.min.js" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
