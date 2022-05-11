@@ -40,7 +40,7 @@
 
 ### Cool Projects
 
-https://github.com/Yasen-Alchev/MultiplayerFPS_DiplomnaRabota
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen-Alchev&repo=MultiplayerFPS_DiplomnaRabota&theme=tokyonight)](https://github.com/Yasen-Alchev/MultiplayerFPS_DiplomnaRabota)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yasen-Alchev&repo=MultiplayerFPS_DiplomnaRabota&theme=tokyonight)](https://github.com/Yasen-Alchev/MultiplayerFPS_DiplomnaRabota)
 
 <br>
